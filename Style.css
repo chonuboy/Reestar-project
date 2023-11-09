@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Young Serif', serif;
+    background-color: aqua;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.navbar__list li{
+    display: inline;
+    color: grey;
+}
+
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.order{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+img{
+    width: 200px;
+    height: 300px;
+}
+.img__container{
+    display: inline;
+    text-align: center;
+    padding-left: 20%;
+}
+.img__one,.img__two,.img__three,.img__four{
+    margin-top: 20px;
+    display: inline-block;
+    border: solid black 2px;
+    width: 200px;
+}
+.contact{
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 99.3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 5px;
+    padding-top: 20px;
+}
+.contact_button{
+    text-align: center;
+    width: 600px;
+    height: 30px;
+    color: black;
+    background-color: yellow;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+.contact__table-elements{
+    width: 300px;
+    height: 100px;
+}
+.contact__table{
+    display: inline-block;
+}
+button{
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+input{
+    background-color: aqua;
+    color:black;
+    height: 20px;
+    font-size: 15px;
+}
