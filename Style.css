@@ -33,9 +33,7 @@ img{
     height: 300px;
 }
 .img__container{
-    display: inline;
     text-align: center;
-    padding-left: 20%;
 }
 .img__one,.img__two,.img__three,.img__four{
     margin-top: 20px;
